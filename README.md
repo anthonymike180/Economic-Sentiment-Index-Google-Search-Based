@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="images/trend_chart.png" alt="Dashboard Preview" width="90%"/>
+  <img src="images/Screenshot (209).png" alt="Dashboard Preview" width="90%"/>
 </p>
 
 ---
