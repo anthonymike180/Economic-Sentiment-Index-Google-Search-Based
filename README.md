@@ -443,7 +443,7 @@ Clean, commented, modular code with docstrings, error handling, fallback logic, 
 
 ## 👤 Author
 
-**[Your Name]**
+**Anthony Michael**
 
 📧 anthonymike9110@gmail.com  
 🔗 [LinkedIn Profile](https://linkedin.com/in/anthony-michael-b36382259)  
